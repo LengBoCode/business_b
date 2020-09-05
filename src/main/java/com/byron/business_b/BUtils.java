@@ -7,6 +7,6 @@ import com.byron.base.BaseUtils;
 
 public class BUtils {
     public static void sayHello(Context context) {
-        Toast.makeText(context, "hello "+ BaseUtils.getDbHello(), Toast.LENGTH_LONG).show();
+        Toast.makeText(context, "hello "+ BaseUtils.getBaseHello(), Toast.LENGTH_LONG).show();
     }
 }

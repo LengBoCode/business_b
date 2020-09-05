@@ -468,6 +468,7 @@ int dimen abc_text_size_subhead_material 0x0
 int dimen abc_text_size_subtitle_material_toolbar 0x0
 int dimen abc_text_size_title_material 0x0
 int dimen abc_text_size_title_material_toolbar 0x0
+int dimen business_b_ok 0x0
 int dimen compat_button_inset_horizontal_material 0x0
 int dimen compat_button_inset_vertical_material 0x0
 int dimen compat_button_padding_horizontal_material 0x0
