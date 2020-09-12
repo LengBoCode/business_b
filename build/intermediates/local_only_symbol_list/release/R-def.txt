@@ -1,3 +1,5 @@
 R_DEF: Internal format may change without notice
 local
 dimen business_b_ok
+id jumpToA
+layout activity_b_main

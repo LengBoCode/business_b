@@ -7,7 +7,7 @@ import android.view.View;
 import android.view.View.OnClickListener;
 
 import com.byron.base.router.Response;
-import com.byron.base.router.RouterUtils;
+import com.byron.base.router.Dispatcher;
 import com.byron.business_b.R;
 
 public class MainActivity extends AppCompatActivity {
@@ -20,16 +20,16 @@ public class MainActivity extends AppCompatActivity {
         findViewById(R.id.jumpToA).setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
-                RouterUtils.request(
-                        "business_a",
-                        "business_a_open_activity_action",
-                        new Response() {
+                Dispatcher.request(
+                        "business_a",  // receiver名称
+                        "business_a_open_activity_action", // 执行的动作
+                        new Response() {  // 结果回调
                             @Override
                             public void response(Object... params) {
 
                             }
                         },
-                        MainActivity.this);
+                        MainActivity.this);  // 传入参数
             }
         });
     }

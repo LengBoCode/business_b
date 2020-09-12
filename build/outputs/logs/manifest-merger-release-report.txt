@@ -1,26 +1,32 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml:1:1-2:66
-INJECTED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml:1:1-2:66
-INJECTED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml:1:1-2:66
-INJECTED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml:1:1-2:66
-INJECTED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml:1:1-2:66
-INJECTED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml:1:1-2:66
-INJECTED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml:1:1-2:66
+ADDED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml:2:1-9:12
 	package
-		ADDED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml:1:11-41
+		ADDED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml:2:11-41
 		INJECTED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml
 		INJECTED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml
-		ADDED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml:1:1-2:66
+		ADDED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml:2:1-9:12
 		INJECTED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml
-		ADDED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml:1:1-2:66
+		ADDED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml:2:1-9:12
 		INJECTED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml:2:5-63
+		ADDED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml:3:5-63
+application
+ADDED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml:5:5-7:19
+activity#com.byron.business_b.activities.MainActivity
+ADDED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml:6:9-70
+	android:name
+		ADDED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml:6:19-58
 uses-sdk
 INJECTED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml

@@ -10,4 +10,11 @@
 9        android:targetSdkVersion="29" />
 9-->/Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml
 10
-11</manifest>
+11    <application>
+11-->/Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml:5:5-7:19
+12        <activity android:name="com.byron.business_b.activities.MainActivity" />
+12-->/Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml:6:9-70
+12-->/Users/byronleng/Desktop/Study/Project/Android/Component/shell/modules/business_b/src/main/AndroidManifest.xml:6:19-58
+13    </application>
+14
+15</manifest>
